@@ -1,7 +1,18 @@
 *{
     box-sizing: border-box !important;
+    padding: 0px;
+    margin: 0px;
 }
+ul{
+    list-style: none;
+}
+
 
 body{
     font-family: 'Open Sans', sans-serif;
+    font-size: 17px;
+}
+
+.container .row .card-content{
+    border-color: #ced4da !important;
 }
